@@ -103,7 +103,8 @@ st.markdown(
 )
 
 st.image(
-    r"C:\Users\ASUS\OneDrive\Desktop\ML\unsupervised\ChatGPT Image May 31, 2026, 12_54_42 PM.png",
+    "ChatGPT Image May 31, 2026, 12_54_42 PM.png"
+,
     use_container_width=True
 )
 
